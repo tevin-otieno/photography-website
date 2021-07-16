@@ -1,6 +1,6 @@
 # Photography Website
 
-[![GitHub Stars](https://img.shields.io/github/stars/tevin-otieno/photography-website.svg)](https://github.com/tevin-otieno/photography-website/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/tevin-otieno/photography-website.svg)](https://github.com/tevin-otieno/photography-website) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/tevin-otieno/photography-website) [![Live Demo](https://img.shields.io/website/PROTOCOL/URLREST.svg)](https://tevin-otieno.github.io/photography-website/indexs.html)
+[![GitHub Stars](https://img.shields.io/github/stars/tevin-otieno/photography-website.svg)](https://github.com/tevin-otieno/photography-website/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/tevin-otieno/photography-website.svg)](https://github.com/tevin-otieno/photography-website) [![GitHub commit activity](https://img.shields.io/github/commit-activity/w/tevin-otieno/photography-website.svg)](https://github.com/tevin-otieno/photography-website/commits/main) [![Live Demo](https://img.shields.io/website/PROTOCOL/URLREST.svg)](https://tevin-otieno.github.io/photography-website/indexs.html)
 
 This is a Photography website powered by only HTML and CSS that shows pictures in an elegant design.
 

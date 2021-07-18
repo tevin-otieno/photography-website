@@ -1,4 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
 body{
     background: rgb(255,170,246);
     background: linear-gradient(90deg, rgba(255,170,246,1) 0%, rgba(214,172,255,1) 100%);
+}
+h1{
+    font-family: 'Lobster', cursive;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: ghostwhite;
+}
+.logo{
+    display: flex;
+    font-size: xx-large;
+}
+.nav-links{
+    display: flex;
+    width: 40%;
+    justify-content: space-around;
+}
+.nav-links li{
+    list-style: none;
+}
+.nav-links a{
+    text-decoration: none;
+    color: darkslategray;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.screen{
+    display: flex;
+}
+.words {
+    height: 560px;
+    width: 720px;
+}
+.words p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 48px;
+    font-family: 'Permanent Marker', cursive;
+    padding-top: 8px;
+}
+.footer{
+    min-height: 240px;
+    background-color: black;
+
 }

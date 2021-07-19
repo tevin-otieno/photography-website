@@ -16,7 +16,9 @@ nav{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: ghostwhite;
+    background-image: url("./imgs/bg");
+    background-repeat: repeat;
+
 }
 .logo{
     display: flex;
@@ -39,6 +41,15 @@ nav{
 }
 .screen{
     display: flex;
+}
+.right{
+    display: flex;
+    width: 580px;
+    height: 400px;
+    padding-top: 64px;
+    padding-right: 16px;
+    justify-content: center;
+    
 }
 .words {
     height: 560px;
